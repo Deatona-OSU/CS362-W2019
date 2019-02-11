@@ -1,0 +1,59 @@
+unittestresults
+unittest1 getCost
+Curse is correct cost.
+Province is correct cost.
+Mine is correct cost.
+Ambassador is correct cost.
+Treasure Map is correct cost.
+Nonexistant Card Cost Returns -1
+unnittest1 of getCost complete
+unittest2 scoreFor().
+scoreFor function PASSED hand score test
+scoreFor function PASSED deck score test
+scoreFor function PASSED discard score test
+unittest 2 complete.
+unittest3 getWinners().
+Player 1 score = 3000
+Player 2 score = 3600
+Player 3 score = 1500
+Player 4 score = 0
+Player 2 won.
+unittest3 complete.
+unittest4 isGameOver().
+isGameOver test 1.
+isGameOver PASSED three cards are 0.
+isGameOver test 2.
+isGameOver PASSED three cards are 0.
+isGameOver test 3.
+isGameOver PASSED province is zero test
+isGameOver test 4.
+isGameOver PASSED three cards are 0.
+isGameOver test 5.
+isGameOver PASSED game is not over condition.
+isGameOver test 6.
+isGameOver PASSED three cards are 0.
+isGameOver test 7.
+isGameOver PASSED province is zero test
+isGameOver test 8.
+isGameOver PASSED game is not over condition.
+isGameOver test 9.
+isGameOver PASSED three cards are 0.
+isGameOver test 10.
+isGameOver PASSED three cards are 0.
+unittest 4 complete.
+cardtest1 Smithy
+Smithy functionality FAILED. Hand increased by 1
+cardtest1 complete
+cardtest2 Adventurer
+Adventurer functionality FAILED. Treasure =  3
+cardtest2 complete
+cardtest3 Village
+Village functionality FAILED. Actions =  4
+cardtest3 complete.
+cardtest4 Great Hall.
+Great Hall functionality PASSED. Actions increased by 1 and cards by 1.
+cardtest4 complete.
+File 'dominion.c'
+Lines executed:22.02% of 563
+Creating 'dominion.c.gcov'
+
