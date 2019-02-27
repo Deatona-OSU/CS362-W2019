@@ -1,6 +1,6 @@
 /* Author: Adam Deaton
  * Random Tester for Smithy
- * 2-26-2019
+ * Date: 2-26-2019
  * Smithy should increase cards by 3 
  */
 
