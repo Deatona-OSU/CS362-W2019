@@ -1,5 +1,6 @@
 /* Author: Adam Deaton
  * Test Adventurer
+ * 2-26-2019
  * Adventurer shold reveal cards from deck until 2 treasure cards are revealed.
  * Hand should increase by 2. Discarding all other revealed cards.
  */
